@@ -32,6 +32,18 @@
   background: var(--primary-light);
 }
 
+/* Hide scrollbar utility for carousel & clean scrollable containers */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+  width: 0 !important;
+  height: 0 !important;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
 /* Smooth Scrolling */
 html {
   scroll-behavior: smooth;

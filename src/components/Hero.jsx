@@ -105,7 +105,7 @@ export default function Hero() {
               className="w-full sm:w-auto px-7 py-3.5 border border-cyan-400/30 hover:border-cyan-400 bg-white/[0.03] hover:bg-cyan-400/10 text-cyan-300 hover:text-cyan-200 font-bold text-xs tracking-wider uppercase rounded-xl shadow-[0_0_15px_rgba(103,232,249,0.05)] hover:shadow-[0_0_25px_rgba(103,232,249,0.25)] transform hover:-translate-y-0.5 transition-all duration-300 flex items-center justify-center gap-2.5"
             >
               <i className="fa-solid fa-laptop-code text-xs"></i>
-              <span>View 7 Projects</span>
+              <span>View My Projects</span>
             </a>
           </div>
 

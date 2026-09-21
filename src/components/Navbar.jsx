@@ -23,6 +23,7 @@ export default function Navbar({ activeSection }) {
     { name: 'Projects', href: '#projects', id: 'projects' },
     { name: 'Skills', href: '#skills', id: 'skills' },
     { name: 'Achievements', href: '#achievements', id: 'achievements' },
+    { name: 'Certificates', href: '#certificates', id: 'certificates' },
     { name: 'Career', href: '#experience', id: 'experience' },
     { name: 'Contact', href: '#contact', id: 'contact' },
   ]
