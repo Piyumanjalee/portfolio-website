@@ -112,9 +112,9 @@ export default function Hero() {
           {/* Social Icons */}
           <div className="flex gap-3 justify-center lg:justify-start items-center">
             <a
-              href="https://www.linkedin.com/in/piyumanjalee-kavindi-senadheera"
+              href="https://www.linkedin.com/in/piyumanjalee-kavindi-senadheera/"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
               className="w-11 h-11 flex items-center justify-center rounded-xl bg-[#081222]/80 border border-cyan-400/20 hover:border-cyan-400 text-slate-300 hover:text-cyan-300 hover:bg-cyan-400/10 transform hover:-translate-y-1 hover:shadow-[0_0_20px_rgba(103,232,249,0.3)] transition-all duration-300"
               aria-label="LinkedIn Profile"
             >

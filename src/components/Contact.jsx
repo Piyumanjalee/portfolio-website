@@ -210,9 +210,9 @@ export default function Contact() {
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 {/* LinkedIn */}
                 <a
-                  href="https://www.linkedin.com/in/piyumanjalee-kavindi-senadheera"
+                  href="https://www.linkedin.com/in/piyumanjalee-kavindi-senadheera/"
                   target="_blank"
-                  rel="noreferrer"
+                  rel="noopener noreferrer"
                   className="glass-panel p-4 rounded-xl flex items-center gap-3.5 transform hover:translate-x-1.5 hover:border-cyan-400/40 transition-all duration-300 group"
                 >
                   <span className="w-10 h-10 rounded-lg flex items-center justify-center text-lg text-white bg-[#0077b5] shadow group-hover:scale-105 transition-transform shrink-0">
@@ -223,7 +223,7 @@ export default function Contact() {
                       LinkedIn
                     </span>
                     <span className="text-[11px] text-slate-400 font-mono truncate">
-                      /in/piyumanjalee-kavindi
+                      /in/piyumanjalee-kavindi-senadheera
                     </span>
                   </div>
                 </a>

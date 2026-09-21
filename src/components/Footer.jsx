@@ -26,9 +26,9 @@ export default function Footer() {
             <i className="fa-brands fa-github text-base"></i>
           </a>
           <a
-            href="https://www.linkedin.com/in/piyumanjalee-kavindi-senadheera"
+            href="https://www.linkedin.com/in/piyumanjalee-kavindi-senadheera/"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
             className="text-slate-400 hover:text-cyan-300 transition-colors"
             aria-label="LinkedIn"
           >
